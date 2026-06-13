@@ -3,6 +3,7 @@ import { FaGithub, FaLinkedin, FaTwitter } from "react-icons/fa";
 const Footer = () => {
   return (
     <footer
+      id="contact"
       className="
         border-t
         border-cyan-500/20

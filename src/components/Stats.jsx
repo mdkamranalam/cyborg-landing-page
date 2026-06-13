@@ -2,7 +2,7 @@ import { motion } from "framer-motion";
 
 const Stats = () => {
   return (
-    <section className="py-24 px-6">
+    <section id="technology" className="py-24 px-6">
       <div className="max-w-6xl mx-auto">
         <div className="grid md:grid-cols-3 gap-8 text-center">
           <motion.div
