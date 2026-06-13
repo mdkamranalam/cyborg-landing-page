@@ -3,6 +3,7 @@ import Hero from "./components/Hero.jsx";
 import Features from "./components/Features.jsx";
 import Stats from "./components/Stats.jsx";
 import CTA from "./components/CTA.jsx";
+import Footer from "./components/Footer.jsx";
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
       <Features />
       <Stats />
       <CTA />
+      <Footer />
     </>
   );
 }
